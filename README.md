@@ -1,4 +1,4 @@
-<h1>Hi, my name is Kou! I changed career into IT and, more precisely would love to get into Cybersecurity </h1>
+<h1>Hi, my name is Kou! I changed career into IT and, more precisely I would love to get into Cybersecurity </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
