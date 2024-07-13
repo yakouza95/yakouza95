@@ -24,5 +24,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/KOUYA/
-https://fr.linkedin.com/in/kou-ya-8325a1235?trk=people-guest_people_search-card
+[linkedin]: https://fr.linkedin.com/in/kou-ya-8325a1235?trk=people-guest_people_search-card
