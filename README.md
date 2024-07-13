@@ -24,5 +24,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/kouya
+[linkedin]: [https://www.linkedin.com/in/kouya](https://www.linkedin.com/in/kou-ya-8325a1235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
