@@ -1,6 +1,6 @@
 <h1>Hi, my name is Kou! I changed career into IT and, more precisely would love to get into Cybersecurity </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
