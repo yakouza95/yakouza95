@@ -3,20 +3,18 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Tech Support With GLPI (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab as a tech support]
 - <b>Deploy an IT Infrastructure For a Startup</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Create a client machine via the internal network]
 - <b>manage an IT infrastructure on a daily basis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - []
 - <b>Create shared services within the company and automate tasks</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC-Honeynet in Azure](https://github.com/yakouza95/Azure-SOC)
+  - [Creating a Live SOC-Honeynet in Azure]
 
 <h2> 🤳 Connect with me:</h2>
 
