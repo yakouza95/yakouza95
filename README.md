@@ -24,6 +24,5 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/kou-ya]
+[linkedin]: https://www.linkedin.com/in/kou-ya
 
--->
