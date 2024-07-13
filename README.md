@@ -24,4 +24,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/kou-ya-8325a1235/
+[linkedin]: https://www.linkedin.com/in/kou-ya
